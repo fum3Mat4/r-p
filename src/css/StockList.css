@@ -1,0 +1,7 @@
+.StockContainer{
+	max-height:30em;
+	width:80%;
+	overflow-x:hidden;
+	overflow-y:auto;
+
+}
